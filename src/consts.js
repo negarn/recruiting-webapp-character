@@ -58,3 +58,6 @@ export const SKILL_LIST = [
 export const initialAttributeValue = 10;
 
 export const initialSkillValue = 0;
+
+export const apiUrl =
+  "https://recruiting.verylongdomaintotestwith.ca/api/{negarn}/character";
